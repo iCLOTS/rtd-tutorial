@@ -1,4 +1,4 @@
-adhesion
+ADHESION
 ===
 
 .. autosummary::
