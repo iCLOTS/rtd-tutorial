@@ -1,7 +1,7 @@
-Adhesion
+API
 ===
 
-.. brightfield::
+.. autosummary::
    :toctree: generated
 
-   Brightfield and fluorescence available
+   lumache
