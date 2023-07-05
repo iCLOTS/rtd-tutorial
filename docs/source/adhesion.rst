@@ -4,4 +4,4 @@ Adhesion
 .. autosummary::
    :toctree: generated
 
-   lumache
+   iCLOTS
