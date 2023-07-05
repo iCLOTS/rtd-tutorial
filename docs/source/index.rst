@@ -1,7 +1,7 @@
 Welcome to iCLOTS's sample documentation!
 ===================================
 
-**Lumache** is an open source software project that makes analysis of cellular microscopy data easy. It specializes in flow-based experiments and applications, particularly in microfluidics.
+**iCLOTS** is an open source software project that makes analysis of cellular microscopy data easy. It specializes in flow-based experiments and applications, particularly in microfluidics.
 
 Check out the :doc:`getting started` section for further information, including
 how to :ref:`installation` the software.
@@ -15,5 +15,5 @@ Contents
 
 .. toctree::
 
-   Downloads
-   Adhesion
+   downloads
+   adhesion
